@@ -27,10 +27,10 @@ const Home = () => {
       <title>Portfolio</title>
       <StyleSheetManager shouldForwardProp={shouldForwardProp}>
         <Layout>
-          <Section grid>
+          {/* <Section grid> */}
             <Hero />
-            <BgAnimation />
-          </Section>
+            {/* <BgAnimation /> */}
+          {/* </Section> */}
           <Projects />
           <Technologies />
           <Timeline />
