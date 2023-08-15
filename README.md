@@ -4,6 +4,8 @@ Welcome to Portfolio website built using Next.js! This project showcases my skil
 
 Live Preview: https://portfolio-website-theta-wine.vercel.app/ 
 
+![Portfolio Website](public/images/Portfolio.png)
+
 ## Table of Contents
 
 - [About](#about)
