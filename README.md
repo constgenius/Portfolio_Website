@@ -1,6 +1,8 @@
 # Portfolio Website
 Welcome to Portfolio website built using Next.js! This project showcases my skills, projects, and provides an overview of my professional journey.
 
+Youtube Tutorial Link: https://youtu.be/9T-XtePdLOc
+
 Live Preview: https://portfolio-website-theta-wine.vercel.app/ 
 
 ![Portfolio Website](public/images/Portfolio.png)
